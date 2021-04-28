@@ -1,0 +1,18 @@
+body {
+    background-color:#97e8f5;
+}
+
+.row {
+    margin-left: 200px;
+}
+
+.table{
+    background-color: whitesmoke;
+    margin-top: 30px;
+}
+
+.cpt {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
